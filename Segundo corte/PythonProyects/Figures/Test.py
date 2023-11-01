@@ -6,11 +6,11 @@ from RightTriangle import RightTriangle
 medium_pizza = Circle(12)
 batch = Circle(7800)
 
-print("Medium pizza area:", medium_pizza.area())
 print("Medium pizza perimeter: ", medium_pizza.perimeter())
+print("Medium pizza area:", medium_pizza.area())
 
-print("Batch area: ", medium_pizza.area())
-print("Batch perimeter: ", medium_pizza.perimeter())
+print("Batch perimeter: ", batch.perimeter())
+print("Batch area: ", batch.area())
 
 screen = Rectangle(4, 2)
 
