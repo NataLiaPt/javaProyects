@@ -13,7 +13,7 @@ public class Person {
     public Person(String name){
         this.name = name;
     }
-    //Constructor with two data for Employee
+    //Constructor with two data for Employee and client
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
