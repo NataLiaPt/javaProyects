@@ -1,0 +1,13 @@
+com\mycompany\ejemploabsfactory\ToyotaCar.class
+com\mycompany\ejemploabsfactory\MercedesCar.class
+com\mycompany\ejemploabsfactory\FotonFactory.class
+com\mycompany\ejemploabsfactory\Truck.class
+com\mycompany\ejemploabsfactory\VehicleFactory.class
+com\mycompany\ejemploabsfactory\FotonTruck.class
+com\mycompany\ejemploabsfactory\MercedesTruck.class
+com\mycompany\ejemploabsfactory\MercedesFactory.class
+com\mycompany\ejemploabsfactory\ToyotaFactory.class
+com\mycompany\ejemploabsfactory\VehicleClient.class
+com\mycompany\ejemploabsfactory\FotonCar.class
+com\mycompany\ejemploabsfactory\Car.class
+com\mycompany\ejemploabsfactory\ToyotaTruck.class
